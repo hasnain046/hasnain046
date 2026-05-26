@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... AI intigrated Problem Statements
 - 🌱 I’m currently learning ...DSA with Python
-- 😄 Pronouns: ...
 
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,node.js" />
